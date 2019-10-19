@@ -48,17 +48,14 @@ After we talk about why I made the move I will show you just how easy it is to b
 Event Type: Lecture
 Time Slot: 30
 
-## How to make the move from jQuery to Vue
+## Serverless and Vue
 
-For a long time in my development career, I would avoid front end development as much as possible because JavaScript was just not fun to work with. Then this magical library called jQuery came into my life and changed everything. In fact, JavaScript took notice and begin implementing similar features that have since made the language a lot more fun to work with.
+Abstract:
+What is serverless and what are the use cases serverless is good for? I will answer these questions and show you how you can quickly add serverless functions to your Vue application.
 
-In the past year and a half, I really embraced VueJS as a framework, community and a way to produce high-quality applications. Vue is the perfect choice for fans of jQuery to move to because it's a progressive framework, but what does that even mean.
+Description:
+When you write a Vue application there is often a need for data or business logic. Many times you will see this in the form of a server-side API. But what happens when you need to perform some function that doesn't warrant standing up an entire server?
 
-Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only and is easy to pick up and integrate with other libraries or existing projects. This means that we can introduce Vue into our existing projects one feature at a time and don't have to live with that all or nothing mentality.
-
-In this workshop, I will give you an introduction to Vue and show you how to incrementally adopt and replace jQuery with it.
-
-Event Type: Workshop
-Time Slot: 8 hrs
+In this presentation, I will walk through some of the use cases that I have come across for creating serverless function. We will look at when to use them and more importantly when not reach for them. Finally, you will learn how to create your very first serverless function using Netlify.
 
 

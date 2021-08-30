@@ -34,5 +34,14 @@ A course starts with an outcome, what will your students get if they take your c
 
 Finally, we will discuss what equipment you will need to have to create your first course. Your passion for a particular subject will determine the success of your course, not a fancy setup. The most important thing you can do is deliver on the promise of your material by producing quality content.
 
+## An introduction to building Microservices in Java
+
+In this session, you will learn what Microservices are and when you might want to reach for them. Microservices have become a popular architecture choice that produces independently releasable services modeled around a business domain. 
+
+You will begin this presentation by learning about the pros/cons of choosing a Microservice architecture. You will learn that the makeup of your team plays a major role in moving towards a Microservice-based architecture. 
+
+Once you understand the need for Microservices it's time to learn how to build them in Java. I will introduce you to building Microservices in Java using Spring Boot. We will discuss the different projects in the Spring ecosystem and what role each of them plays in our application. 
+
+We will do this by building out an application that is made up of several microservices. We will talk about how services communicate with each other as well as some of the other challenges with building distributed systems. 
 
 

@@ -28,11 +28,11 @@ In this session, you will learn about a framework-agnostic next-generation build
 
 In this session, I will teach you the tips and tricks that I have learned over the years that led me to create courses that have helped over 140,000 students worldwide. These courses have allowed me to create passive income all while sharing my passion, software development.
 
-First, we will talk about how to validate your course ideas. Before you go off and put all of this effort into creating a course you want to make sure that it's something that people are interested in.
+First, we will talk about how to validate your course ideas. Before you go off and put all of this effort into creating a course you want to make sure that it's something that people are interested in. A course starts with an outcome, what will your students get if they take your course. We will discuss how to create a solid curriculum that revolves around your outcomes.
 
-A course starts with an outcome, what will your students get if they take your course. We will discuss how to create a solid curriculum that revolves around your outcomes.
+Next, we will discuss what equipment you will need to have to create your first course. Your passion for a particular subject will determine the success of your course, not a fancy setup. The most important thing you can do is deliver on the promise of your material by producing quality content.
 
-Finally, we will discuss what equipment you will need to have to create your first course. Your passion for a particular subject will determine the success of your course, not a fancy setup. The most important thing you can do is deliver on the promise of your material by producing quality content.
+Finally, we will discuss where to publish your course. Should you choose a marketplace, if so which one? Should you self host the course and if so what are your options. These are important questions that you need to ask yourself before you start developing your course curriculum and content.
 
 ## An introduction to building Microservices in Java
 
